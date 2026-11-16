@@ -1,5 +1,5 @@
 // No bundler: the ES module comes straight from jsDelivr, pinned to a version.
-import { view } from 'https://cdn.jsdelivr.net/npm/@getv.design/embed@0.9.0/dist/view.js';
+import { view } from 'https://cdn.jsdelivr.net/npm/@getv.design/embed@0.9.1/dist/view.js';
 
 // A .vd document as text. A URL or a Blob works too: view(el, '/designs/home.vd').
 const text = `version 4
